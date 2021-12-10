@@ -1,0 +1,66 @@
+[
+    {
+        "id":9874,
+        "sku":"JHS-2114",
+        "name":"Avory",
+        "price":14999,
+        "thumbnail":"thumbnail.jpg",
+        "productShots":["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+        "short":"Non duis ut photo booth occaecat. In XOXO snackwave knausgaard cronut shabby chic cupidatat qui hashtag.",
+        "long":"Waterproof, windproof, weatherproof the Avory withholds a membrane between the outer layer and the inner lining, making all the products 100% water resistant. Put your foot directly in a running river and your feet will stay dry - you can now wear sneakers in the winter, you are welcome.",
+        "sizes":[7,8,8.5,9,10],  
+        "meta":{
+            "rating":4.6,
+            "views":11,
+            "reviews":6
+        }     
+    },
+    {
+        "id":1718,
+        "sku":"JHS-5478",
+        "name":"Poppy",
+        "price":17499,
+        "thumbnail":"thumbnail.jpg",
+        "productShots":["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+        "short":"Non duis ut photo booth occaecat. In XOXO snackwave knausgaard cronut shabby chic cupidatat qui hashtag.",
+        "long":"Lightweight, breathable and extra padding on the heel - the Poppy is a sneaker where we love to play with materials and colors. A staff favorite here at Head Office! This is a demonstration theme for Shopify. All products featured with kind permission from arkkcopenhagen.com. Click here to purchase.",
+        "sizes":[7,8,9.5,10,11,12],
+        "meta":{
+            "rating":4.4,
+            "views":8,
+            "reviews":3
+        } 
+    },
+    {
+        "id":3147,
+        "sku":"JHS-5478",
+        "name":"Raven",
+        "price":20100,
+        "thumbnail":"thumbnail.jpg",
+        "productShots":["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+        "short":"Non duis ut photo booth occaecat. In XOXO snackwave knausgaard cronut shabby chic cupidatat qui hashtag.",
+        "long":"Our iconic Raven sneaker - lightweight, breathable and easy slip-on, a very comfortable choice. This is a demonstration theme for Shopify. All products featured with kind permission from arkkcopenhagen.com. Click here to purchase.",
+        "sizes":[6.5, 7,8, 8.5, 9],
+        "meta":{
+            "rating":4.3,
+            "views":7,
+            "reviews":4
+        } 
+    },
+    {
+        "id":8421,
+        "sku":"JHS-2459",
+        "name":"Sneakmir",
+        "price":12499,
+        "thumbnail":"thumbnail.jpg",
+        "productShots":["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+        "short":"Non duis ut photo booth occaecat. In XOXO snackwave knausgaard cronut shabby chic cupidatat qui hashtag.",
+        "long":"Waterproof, windproof, weatherproof - the Sneakmir withholds a membrane between the outer layer and the inner lining, making all the products 100% water resistant. Put your foot directly in a running river and your feet will stay dry - you can now wear sneakers in the winter, you are welcome.",
+        "sizes":[7,8,8.5,9,10],
+        "meta":{
+            "rating":4.2,
+            "views":9,
+            "reviews":4
+        }          
+    }      
+]
